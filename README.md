@@ -28,9 +28,7 @@
 <br/>
 
 <a href="https://github.com/ProgrammingWithGaurav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgrammingWithGaurav&theme=buefy&show_icons=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=ProgrammingWithGaurav" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingWithGaurav&theme=buefy&layout=compact" />
 </a>
 
 <br/>
